@@ -28,11 +28,5 @@
         "name":"makyaj temizleyici",
         "price":150,
         "adet":200
-    },
-    {
-        "id":5,
-        "name":"makyaj süngeri",
-        "price":150,
-        "adet":200
     }
 ]
