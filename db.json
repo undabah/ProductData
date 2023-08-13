@@ -3,42 +3,36 @@
         "id":0,
         "name":"güneş kremi",
         "price":150,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
+        "adet":200
     },
     {
         "id":1,
         "name":"sinek ilacı",
         "price":120,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
+        "adet":200
     },
     {
         "id":2,
         "name":"fondoten",
         "price":300,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
+        "adet":200
     },
     {
         "id":3,
         "name":"temizleme jeli",
         "price":150,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
+        "adet":200
     },
     {
         "id":4,
         "name":"makyaj temizleyici",
         "price":150,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
+        "adet":200
     },
     {
         "id":5,
         "name":"makyaj süngeri",
         "price":150,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
+        "adet":200
     }
 ]
