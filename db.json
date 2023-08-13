@@ -1,8 +1,8 @@
-{"id": 0 , "name": "güneş kremi", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"},
+[{"id": 0 , "name": "güneş kremi", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"},
 {"id": 1 , "name": "sinek ilacı", "price": 120, "adet": 200, "satıcı": "Timur Bugdaycı"},
 {"id": 2 , "name": "fondoten", "price": 300, "adet": 200, "satıcı": "Timur Bugdaycı"},
 {"id": 3 , "name": "temizleme jeli", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"},
 {"id": 4 , "name": "makyaj temizleyici", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"},
 {"id": 5 , "name": "makyaj süngeri", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"},
-{"id": 6 , "name": "pamuk", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"}
+{"id": 6 , "name": "pamuk", "price": 150, "adet": 200, "satıcı": "Timur Bugdaycı"}]
 
