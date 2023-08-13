@@ -40,12 +40,5 @@
         "price":150,
         "adet":200,
         "satıcı":"Timur Bugdaycı"
-    },
-    {
-        "id":6,
-        "name":"pamuk",
-        "price":150,
-        "adet":200,
-        "satıcı":"Timur Bugdaycı"
     }
 ]
